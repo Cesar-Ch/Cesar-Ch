@@ -1,7 +1,9 @@
-- 👋 Hola soy @CesarWP
-- 📈🧑‍💻🌱 Desarrollador Web.
-  https://cchafloque.000webhostapp.com/
-- 🧑‍💻🧑‍💻🧑‍💻 Busco para colaborar en proyectos.
+-👋Hello I'm @CesarWP
+-📈🧑‍💻🌱Web Developer.  https://cchafloque.000webhostapp.com/
+-🧑‍💻🧑‍💻🧑‍💻 Looking to collaborate on projects.
+
+
+
 
 
 <!---
