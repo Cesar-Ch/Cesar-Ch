@@ -1,6 +1,6 @@
 - 👋Hello I'm @CesarWP
 - 📈🧑‍💻🌱Web Developer.  https://cchafloqus.000webhostapp.com/
-- 🧑‍💻🧑‍💻🧑‍💻 Looking to collaborate on projects.
+- 👩‍💻🧑‍💻👨‍💻 Looking to collaborate on projects.
 
 
 
