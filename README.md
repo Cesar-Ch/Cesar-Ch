@@ -5,16 +5,16 @@
 
 ### Languages and Tools
 
-[<img src="https://cesar-ch.github.io/WebPage/assets/iconhtml.de1c5559.svg" alt="" width="30" height="30">](https://developer.mozilla.org/es/docs/Web/HTML)
-[<img src="https://cesar-ch.github.io/WebPage/assets/iconcss.821b436e.svg" alt="" width="30" height="30">](https://developer.mozilla.org/es/docs/Web/HTML)
-[<img src="https://cesar-ch.github.io/WebPage/assets/iconbootstrap.2619db79.svg" alt="" width="30" height="30">](https://getbootstrap.com/)
-[<img src="https://cesar-ch.github.io/WebPage/assets/iconjs.707dd88c.svg" alt="" width="30" height="30">](https://developer.mozilla.org/es/docs/Web/HTML)
-[<img src="https://cesar-ch.github.io/WebPage/assets/react.35ef61ed.svg" alt="" width="30" height="30">](https://es.reactjs.org/)
-
+<p>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
 
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-ch&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-ch&show_icons=true&theme=tokyonight&card_width=450em)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 <hr />
