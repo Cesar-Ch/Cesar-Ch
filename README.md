@@ -14,8 +14,8 @@
 
 <hr />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-ch&show_icons=true&theme=tokyonight&card_width=450em)
-](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-ch&show_icons=true&theme=tokyonight&card_width=450em)
+](https://github.com/anuraghazra/github-readme-stats) -->
 
 <hr />
 
