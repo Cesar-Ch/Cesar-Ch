@@ -1,6 +1,6 @@
 # Hello👋 I'm César
 
- <a href="https://cesar-ch.github.io/WebPage/" target="_blank">Web Developer</a>
+<!--  <a href="https://cesar-ch.github.io/WebPage/" target="_blank">Web Developer</a> -->
 
 
 ### Languages and Tools
