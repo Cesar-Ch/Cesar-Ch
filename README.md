@@ -15,6 +15,7 @@
 
 ![Cesar-Ch's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-ch&show_icons=true&theme=dark)
 <hr>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-ch&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Cesar-Ch-S's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-ch&show_icons=true&theme=radical) -->
 <!---
