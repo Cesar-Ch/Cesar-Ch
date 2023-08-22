@@ -10,11 +10,12 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
 </p>
 
 ![Cesar-Ch's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-ch&show_icons=true&theme=dark)
-<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-ch&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Cesar-Ch-S's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-ch&show_icons=true&theme=radical) -->
