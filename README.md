@@ -1,8 +1,5 @@
 <h1>Hello I'm César </h1>
 
-<!--  <a href="https://cesar-ch.github.io/WebPage/" target="_blank">Web Developer</a> -->
-
-
 ### Languages and Tools
 
 <p>
