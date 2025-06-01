@@ -1,7 +1,6 @@
 <img src="https://www.codewars.com/users/Cesar-Ch/badges/large" alt ="Badges codewars" >
 <p>
  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=cesar-ch&show_icons=true&theme=dark" >
- <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-ch&layout=compact&theme=dark">
 </p>
 <!-- ![Cesar-Ch-S's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-ch&show_icons=true&theme=radical) -->
 <!---
