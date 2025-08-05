@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-151515?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Astro-151515?style=for-the-badge&logo=astro&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white">
 </p>
 <!-- ![Cesar-Ch-S's GitHub stats](https://github-readme-stats.vercel.app/api?username=cesar-ch&show_icons=true&theme=radical) -->
 <!---
