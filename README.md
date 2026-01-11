@@ -1,4 +1,6 @@
-<img src="https://www.codewars.com/users/Cesar-Ch/badges/large" alt ="Badges codewars" >
+<a href="https://www.codewars.com/" target="_blank" >
+  <img src="https://www.codewars.com/users/Cesar-Ch/badges/large" alt ="Badges codewars" >
+</a>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Css-151515?style=for-the-badge&logo=css&logoColor=white">
