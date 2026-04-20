@@ -1,6 +1,9 @@
 [![Codewars Badge](https://www.codewars.com/users/Cesar-Ch/badges/large)](https://www.codewars.com/)
 
+<p>
 <img width="50" height="50" alt="50 Days Badge 2025!" src="https://assets.leetcode.com/static_assets/others/2550.gif" />
+<img width="50" height="50" alt="50 Days Badge 2024!" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white">
