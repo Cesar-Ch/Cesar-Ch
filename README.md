@@ -1,3 +1,7 @@
+
+
+<p align="center"><b>César Chafloque S.</b> · Full-stack engineer<br/></p>
+
 [![Codewars Badge](https://www.codewars.com/users/Cesar-Ch/badges/large)](https://www.codewars.com/)
 
 <p>
@@ -5,6 +9,8 @@
 <img width="50" height="50" alt="50 Days Badge 2024!" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" />
 </p>
 
+
+<h3>Stack</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Css-151515?style=for-the-badge&logo=css&logoColor=white">
@@ -30,6 +36,17 @@
  <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
+
+<h3>The city I built this year</h3>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/city?username=cesar-ch&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78516596%3Fu%3D68acc3b5aff59bf98388e10f3110788ae8d8e0c1%26v%3D4" alt="cesar-ch hero visual" />
+</p>
+
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/portrait?username=cesar-ch&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78516596%3Fu%3D68acc3b5aff59bf98388e10f3110788ae8d8e0c1%26v%3D4&color=1&v=showcase-portrait-1" alt="cesar-ch hero visual" />
+</p>
 <!---
 Cesar-Ch/Cesar-Ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
