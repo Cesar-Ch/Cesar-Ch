@@ -44,9 +44,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://www.gitskins.com/api/section/portrait?username=cesar-ch&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F78516596%3Fu%3D68acc3b5aff59bf98388e10f3110788ae8d8e0c1%26v%3D4&color=1&v=showcase-portrait-1" alt="cesar-ch hero visual" />
-</p>
+</p> -->
 <!---
 Cesar-Ch/Cesar-Ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
